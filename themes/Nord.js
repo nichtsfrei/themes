@@ -44,7 +44,7 @@ const colors = {
 
   backgroundColor: nord.nord0,
   foregroundColor: nord.nord4,
-  cursorColor: nord.nord4,
+  cursorColor: 'rgba(216, 222, 233, 0.5)',
 };
 
 t.prefs_.set('color-palette-overrides', [
